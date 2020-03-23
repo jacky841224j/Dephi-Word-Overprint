@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/10/23 16:40:44.350.pas,C:\Users\190304\Desktop\套印程式\Table.pas=C:\Users\190304\Desktop\套印程式\Unit2.pas</Transaction>
+    <Transaction>2019/10/23 16:40:44.350.dfm,C:\Users\190304\Desktop\套印程式\Table.dfm=C:\Users\190304\Desktop\套印程式\Unit2.dfm</Transaction>
+    <Transaction>2019/10/28 11:55:21.784.pas,C:\Users\190304\Desktop\報到程式\ExcelUnit.pas=</Transaction>
+    <Transaction>2019/12/02 08:57:03.000.656,=C:\Users\190304\Desktop\套印程式\Unit1.pas</Transaction>
+    <Transaction>2019/12/02 08:57:24.000.444,C:\Users\190304\Desktop\套印程式\Unit1.pas=C:\Users\190304\Desktop\套印程式\adshlp.pas</Transaction>
+    <Transaction>2019/12/02 09:00:27.000.438,=C:\Users\190304\Desktop\套印程式\adsearchmain.pas</Transaction>
+    <Transaction>2019/12/02 09:00:52.000.948,=C:\Users\190304\Desktop\套印程式\ADSISearch.pas</Transaction>
+    <Transaction>2019/12/02 09:02:44.000.393,C:\Users\190304\Desktop\套印程式\adsearchmain.pas=</Transaction>
+    <Transaction>2019/12/02 09:02:55.000.841,C:\Users\190304\Desktop\套印程式\ADSISearch.pas=</Transaction>
+    <Transaction>2019/12/30 08:41:25.000.600,C:\Users\190304\Desktop\套印程式\Grade.pas=C:\Users\190304\Desktop\套印程式\RepTest.pas</Transaction>
+    <Transaction>2019/12/30 08:41:25.000.600,C:\Users\190304\Desktop\套印程式\Grade.dfm=C:\Users\190304\Desktop\套印程式\RepTest.dfm</Transaction>
+    <Transaction>2020/01/03 08:14:42.000.877,=C:\Users\190304\Desktop\套印程式\Score.pas</Transaction>
+    <Transaction>2020/01/03 08:20:16.000.580,C:\Users\190304\Desktop\套印程式\RepTest.pas=</Transaction>
+    <Transaction>2020/01/03 08:20:22.000.451,C:\Users\190304\Desktop\套印程式\Score.pas=</Transaction>
+    <Transaction>2020/01/03 08:28:28.000.422,=C:\Users\190304\Desktop\套印程式\Grade.pas</Transaction>
+    <Transaction>2020/01/04 16:40:43.000.736,=C:\Users\190304\Desktop\套印程式\RepTest.pas</Transaction>
+    <Transaction>2020/01/04 16:40:56.000.372,C:\Users\190304\Desktop\套印程式\Rep.pas=</Transaction>
+    <Transaction>2020/01/04 16:41:05.000.549,C:\Users\190304\Desktop\套印程式\RepTest.pas=C:\Users\190304\Desktop\套印程式\Rep.pas</Transaction>
+    <Transaction>2020/01/04 16:41:05.000.549,C:\Users\190304\Desktop\套印程式\RepTest.dfm=C:\Users\190304\Desktop\套印程式\Rep.dfm</Transaction>
+    <Transaction>2020/01/04 16:41:05.000.562,C:\Users\190304\Desktop\套印程式\Rep.dfm=C:\Users\190304\Desktop\套印程式\RepTest.dfm</Transaction>
+    <Transaction>2020/01/04 16:41:05.000.562,C:\Users\190304\Desktop\套印程式\Rep.pas=C:\Users\190304\Desktop\套印程式\RepTest.pas</Transaction>
+    <Transaction>2020/01/04 16:41:25.000.400,C:\Users\190304\Desktop\套印程式\RepTest.dfm=C:\Users\190304\Desktop\套印程式\Rep.dfm</Transaction>
+    <Transaction>2020/01/04 16:41:25.000.400,C:\Users\190304\Desktop\套印程式\RepTest.pas=C:\Users\190304\Desktop\套印程式\Rep.pas</Transaction>
+  </Transactions>
+</BorlandProject>
